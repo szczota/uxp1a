@@ -1,5 +1,10 @@
 This repository contains an academic project.
 
+Directory index
+===============
+./lib - the tool library used by client processes to communicate with the server
+
+
 Authors:
 Piotr Bieńkowski
 Tomasz Krawczyk
